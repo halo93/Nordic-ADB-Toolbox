@@ -1,0 +1,44 @@
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.exe
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.deps.json
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.runtimeconfig.json
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.dll
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.pdb
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.deviceInfo.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.deviceStatus.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.Form1.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.Properties.Resources.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.report.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.testing.resources
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.AssemblyInfo.cs
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.dll
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\refint\Hackathon GUI Design.dll
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.pdb
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.genruntimeconfig.cache
+C:\Users\muham\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\ref\Hackathon GUI Design.dll
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.exe
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.deps.json
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.runtimeconfig.json
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.dll
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\bin\Debug\net6.0-windows\Hackathon GUI Design.pdb
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.deviceInfo.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.deviceStatus.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.Form1.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.Properties.Resources.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.report.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon_GUI_Design.testing.resources
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.dll
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\refint\Hackathon GUI Design.dll
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.pdb
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\Hackathon GUI Design.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Hackathon GUI Design\Hackathon GUI Design\obj\Debug\net6.0-windows\ref\Hackathon GUI Design.dll
